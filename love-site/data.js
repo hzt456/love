@@ -14,6 +14,7 @@ const MENU_ITEMS = [
 // date 显示在照片下面，想写啥写啥
 const PHOTOS = [
   { src: "photos/好美的晓琪.jpg", date: "好美的晓琪" },
+  { src: "photos/我的宝宝.jpg", date: "我的宝宝" },
   { src: "photos/第一次去宠物店.jpg", date: "第一次去宠物店" },
   { src: "photos/第一次吃烤肉.jpg", date: "2026年11月3日第一次吃烤肉" },
   { src: "photos/第一次吃饭.jpg", date: "2026年9月25日第一次吃饭" },
